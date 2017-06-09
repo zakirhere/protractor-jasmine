@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "protractor": "^5.1.2"
+  },
+  "scripts": {
+    "webdriver-update": "webdriver-manager update"
+  }
+}
