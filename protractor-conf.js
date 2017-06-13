@@ -1,14 +1,14 @@
 exports.config = {
 
   specs: [
-    'schl/*.spec.js'
+    'asapp/*.spec.js'
   ],
 
   capabilities: {
     'browserName': 'chrome'
   },
 
-  baseUrl: 'http://google.com',
+  // baseUrl: 'http://google.com',
 
   directConnect: true,
 

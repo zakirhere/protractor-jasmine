@@ -3,6 +3,7 @@
     "protractor": "^5.1.2"
   },
   "scripts": {
-    "webdriver-update": "webdriver-manager update"
+    "webdriver-update": "webdriver-manager update",
+    "start": "./node_modules/.bin/protractor protractor-conf.js"
   }
 }
